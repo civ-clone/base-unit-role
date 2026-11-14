@@ -1,6 +1,6 @@
 {
   "name": "@civ-clone/base-unit-role",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Unit roles: what a unit type is for (attack, defend, transport, settle…), declared per game with UnitRoles rules.",
   "repository": "git@github.com:civ-clone/base-unit-role.git",
   "keywords": [
