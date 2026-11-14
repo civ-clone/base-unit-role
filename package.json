@@ -16,7 +16,9 @@
     "*.js.map",
     "Rules/*.js",
     "Rules/*.d.ts",
-    "Rules/*.js.map"
+    "Rules/*.js.map",
+    "*.ts",
+    "Rules/*.ts"
   ],
   "scripts": {
     "bench": "ts-mocha ./bench/*.ts",
